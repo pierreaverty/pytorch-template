@@ -7,7 +7,7 @@ This is a deep learning project template using **PyTorch**. It provides a clear 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/deep-learning-template.git
-   cd deep-learning-template
+   cd pytorch-template
 2.	Install the required dependencies:
 	```bash
 	pip install -r requirements.txt
